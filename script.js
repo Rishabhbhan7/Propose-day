@@ -306,7 +306,8 @@ function drawText() {
   if (frameNumber >= 3600 && frameNumber < 99999) {
     context.fillStyle = `rgba(255, 255, 255, ${thirdOpacity})`;
     context.fillText(
-      "Will You Be Mine?",
+      "I love you and I can't imagine my life without you",
+      "My Princess Will you be the mother of my son?",
       canvas.width / 2,
       canvas.height / 2 + 120
     );
